@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px auto;
+  padding: 88px auto 40px;
+}
+
+body {
+  background-color: #f5f4f0;
+}
+
+p {
+  font-size: 16px;
+  color: #333;
+}
+
+.linered {
+  color: #e1624f;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  margin-top: 8px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  width: 682px;
+  height: 44px;
+  margin-top: 2px;
+}
+
+h3 {
+  height: 30px;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+img {
+  border-radius: 28px;
+}
+
+.description {
+  margin-top: 24px;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.destinos p {
+  margin-top: 8px;
+  margin-bottom: 64px;
+}
+
+.destinos img {
+  margin-bottom: 20px;
+}
+
+ul {
+  font-weight: bold;
+  padding-left: 13px;
+}
+
+.HaedongYonggungsa ul {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+.HaedongYonggungsa img {
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+.TemploBeomeo-sa ul {
+  padding-left: 13px;
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+.TemploBeomeo-sa img {
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+.ParqueYongdusan p {
+  margin-top: 4px;
+}
+
+.casais {
+  color: #591b98;
+}
+
+.familia {
+  color: #e5245e;
+}
+
+.orcamento {
+  color: #e95e10;
+  margin-bottom: 40px;
+}
+
+footer p {
+  margin-bottom: 65px;
+  text-align: center;
+}
+
+footer div {
+  text-align: center;
+}
+
+footer img {
+  vertical-align: middle;
+}
